@@ -1524,6 +1524,7 @@ export const trainerConfigs: TrainerConfigs = {
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.LOKIX , Species.YANMEGA ]))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.BUZZWOLE ]))
     .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.XURKITREE ], TrainerSlot.TRAINER, true, p => {
+      p.setBoss(true, 2);
       p.generateAndPopulateMoveset();
       p.pokeball = PokeballType.MASTER_BALL;
     }))
