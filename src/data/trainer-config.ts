@@ -1692,8 +1692,11 @@ export const trainerConfigs: TrainerConfigs = {
       p.generateAndPopulateMoveset();
       p.pokeball = PokeballType.MASTER_BALL;
     }))
-    .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.AMOONGUSS ]))
-    .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.PYROAR ]))
+    .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.PYROAR ]))
+    .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.AMOONGUSS ], TrainerSlot.TRAINER, true, p => {
+      p.generateAndPopulateMoveset();
+      p.abilityIndex = 2; //Regenerator
+    }))
     .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.AURORUS, Species.TYRANTRUM ]))
     .setPartyMemberFunc(4, getRandomPartyMemberFunc([ Species.GYARADOS ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
