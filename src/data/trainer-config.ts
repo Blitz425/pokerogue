@@ -1533,7 +1533,7 @@ export const trainerConfigs: TrainerConfigs = {
       p.setBoss(true, 2);
       p.generateAndPopulateMoveset();
       p.pokeball = PokeballType.MASTER_BALL;
-      P.formIndex = 1;
+      p.formIndex = 1;
     })),
   [TrainerType.MAXIE]: new TrainerConfig(++t).setName("Maxie").initForEvilTeamLeader("Magma Boss",[]).setMixedBattleBgm("battle_aqua_magma_boss").setVictoryBgm("victory_team_plasma")
     .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.MILOTIC ]))
