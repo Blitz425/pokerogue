@@ -1504,6 +1504,7 @@ export const trainerConfigs: TrainerConfigs = {
     .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.GOLISOPOD ]))
      p.setBoss(true,2);
      p.generateAndPopulateMoveset()
+    }))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.MASQUERAIN ]))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.HERACROSS ]))
     .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.SCIZOR, Species.KLEAVOR ]))
