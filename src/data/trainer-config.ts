@@ -1501,9 +1501,10 @@ export const trainerConfigs: TrainerConfigs = {
     }),
 
   [TrainerType.ROCKET_BOSS_GIOVANNI_1]: new TrainerConfig(t = TrainerType.ROCKET_BOSS_GIOVANNI_1).setName("Giovanni").initForEvilTeamLeader("Rocket Boss",[]).setMixedBattleBgm("battle_rocket_boss").setVictoryBgm("victory_team_plasma")
-    .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.GOLISOPOD ]))
-     p.setBoss(true,2);
-     p.generateAndPopulateMoveset()
+    .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.GOLISOPOD ], TrainerSlot.TRAINER, true, p => {
+      p.setBoss(true, 2);
+      p.generateAndPopulateMoveset();
+      p.pokeball = PokeballType.ULTRA_BALL;
     }))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.MASQUERAIN ]))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.HERACROSS ]))
