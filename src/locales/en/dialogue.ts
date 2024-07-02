@@ -433,69 +433,75 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "rocket_boss_giovanni_1": {
     "encounter": {
-      1: "So! I must say, I am impressed you got here!"
+      1: `Doesn't matter who I'm up against, I'm gonna beat them down! 
+         $That's what big bad Guzma is all about!`
     },
     "victory": {
-      1: "WHAT! This cannot be!"
+      1: "Tch. I'm gonna beat you down one of these days!"
     },
     "defeat": {
-      1: "Mark my words. Not being able to measure your own strength shows that you are still a child."
+      1: "And you came all the way out here just for that, huh?"
     }
   },
   "rocket_boss_giovanni_2": {
     "encounter": {
-      1: "My old associates need me... Are you going to get in my way?"
+      1: "Wanna see what destruction looks like? Here it is in human form-it's your boy Guzma!"
     },
     "victory": {
-      1: "How is this possible...? The precious dream of Team Rocket has become little more than an illusion..."
+      1: "Guzma!!! What is wrong with you?!"
     },
     "defeat": {
-      1: "Team Rocket will be reborn again, and I will rule the world!"
+      1: "Y'all are stupid!"
     }
   },
   "magma_boss_maxie_1": {
     "encounter": {
-      1: "I will bury you by my own hand. I hope you appreciate this honor!"
+      1: "It looks like I'll need to silence you first."
     },
     "victory": {
-      1: "Ugh! You are... quite capable...\nI fell behind, but only by an inch..."
+      1: "How.. how can you be so awful!"
     },
     "defeat": {
-      1: "Team Magma will prevail!"
+      1: "Hmph..."
     }
   },
   "magma_boss_maxie_2": {
     "encounter": {
-      1: `You are the final obstacle remaining between me and my goals.
-          $Brace yourself for my ultimate attack! Fuhahaha!`
+      1: `You hateful little Trainer! How dare you intrude upon this world that was meant for Nihilego and me? 
+	  $I will show you how wrong you were to come here!`
     },
     "victory": {
-      1: "This... This is not.. Ngh..."
+      1: "Aaauuuuuuughhhhh!!"
     },
     "defeat": {
-      1: "And now... I will transform this planet to a land ideal for humanity."
+      1: `The world of my Ultra Beasts... 
+          $A world where the only thing that exists is the love between Nihilego and myself`
     }
   },
   "aqua_boss_archie_1": {
     "encounter": {
-      1: "I'm the leader of Team Aqua, so I'm afraid it's the rope's end for you."
+      1: `The future is more important than just one day! We must take action in order to avert tragedy! 
+          $So that all can look forward to a better future!`
     },
     "victory": {
-      1: "Let's meet again somewhere. I'll be sure to remember that face."
+      1: `You still don't understand, young Champion... 
+          $We... No, I am going to change the course of history!`
     },
     "defeat": {
-      1: "Brilliant! My team won't hold back now!"
+      1: "You still don't understand a thing!"
     }
   },
   "aqua_boss_archie_2": {
     "encounter": {
-      1: "I've been waiting so long for this day to come.\nThis is the true power of my team!"
+      1: "I think it's time I brought about the Darkest Day. For the sake of Galar's future, of course!"
     },
     "victory": {
-      1: "Like I figured..."
+      1: `I'd forgotten how great Pokémon battles are! It's been so long since I battled... 
+         $That sure was satisfying.`
     },
     "defeat": {
-      1: "I'll return everything in this world to its original, pure state!!"
+      1: `I suppose it must seem that I am doing something terrible. I don't expect you to understand. 
+         $But I must provide the Galar region with limitless energy to ensure everlasting prosperity.`
     }
   },
   "galactic_boss_cyrus_1": {
