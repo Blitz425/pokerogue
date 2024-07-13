@@ -1656,7 +1656,7 @@ export const trainerConfigs: TrainerConfigs = {
       p.pokeball = PokeballType.ULTRA_BALL;
     })),
   [TrainerType.GHETSIS_2]: new TrainerConfig(++t).setName("Ghetsis").initForEvilTeamLeader("Plasma Boss",[], true).setMixedBattleBgm("battle_plasma_boss").setVictoryBgm("victory_team_plasma")
-    .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.GENESECT ], TrainerSlot.TRAINER, true, p => {
+    .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.HYDREIGON ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
       p.generateAndPopulateMoveset();
       p.pokeball = PokeballType.ULTRA_BALL;
@@ -1664,10 +1664,10 @@ export const trainerConfigs: TrainerConfigs = {
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.VOLCARONA ]))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.BASCULEGION ]))
     .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.KINGAMBIT ]))
-    .setPartyMemberFunc(4, getRandomPartyMemberFunc([ Species.HYDREIGON, Species.IRON_JUGULIS ], TrainerSlot.TRAINER, true, p => {
+    .setPartyMemberFunc(4, getRandomPartyMemberFunc([ Species.GENESECT ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
       p.generateAndPopulateMoveset();
-      p.pokeball = PokeballType.ULTRA_BALL;
+      p.pokeball = PokeballType.MASTER_BALL;
     }))
     .setPartyMemberFunc(5, getRandomPartyMemberFunc([ Species.KYUREM ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
@@ -1693,11 +1693,8 @@ export const trainerConfigs: TrainerConfigs = {
       p.pokeball = PokeballType.MASTER_BALL;
     }))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.PYROAR ]))
-    .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.AMOONGUSS ], TrainerSlot.TRAINER, true, p => {
-      p.generateAndPopulateMoveset();
-      p.abilityIndex = 2; //Regenerator
-    }))
-    .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.AURORUS, Species.TYRANTRUM ]))
+    .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.IRON_MOTH ]))
+    .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.GOODRA, Species.HISUI_GOODRA ]))
     .setPartyMemberFunc(4, getRandomPartyMemberFunc([ Species.GYARADOS ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
       p.generateAndPopulateMoveset();
