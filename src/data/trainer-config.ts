@@ -1589,9 +1589,9 @@ export const trainerConfigs: TrainerConfigs = {
       p.generateAndPopulateMoveset();
       p.pokeball = PokeballType.ULTRA_BALL;
     }))
-    .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.EMPOLEON, Species.HISUI_GOODRA ], TrainerSlot.TRAINER, true, p => {
+    .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.EMPOLEON ], TrainerSlot.TRAINER, true, p => {
       p.generateAndPopulateMoveset();
-      p.abilityIndex = 2;
+      p.abilityIndex = 1;
     }))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.AEGISLASH, Species.GHOLDENGO ]))
     .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.IRON_CROWN ]))
@@ -1668,6 +1668,7 @@ export const trainerConfigs: TrainerConfigs = {
       p.setBoss(true, 2);
       p.generateAndPopulateMoveset();
       p.pokeball = PokeballType.MASTER_BALL;
+      p.formIndex = 4;
     }))
     .setPartyMemberFunc(5, getRandomPartyMemberFunc([ Species.KYUREM ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
