@@ -678,82 +678,82 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "aether_grunt": {
     "encounter": {
-      1: "I'll fight you with all I have to wipe you out!",
-      2: "I don't care if you're a kid or what. I'll send you flying if you threaten us!",
-      3: "I was told to turn away Trainers, whomever they might be!",
-      4: "I'll show you the power of Aether Paradise!",
-      5: "Now that you've learned of the darkness at the heart of Aether Paradise, we'll need you to conveniently disappear!"
+      1: "죽을 각오로 퇴치하겠습니다!",
+      2: "소중한 연구라고! 애라도 가만두지 않겠어!",
+      3: "어떤 트레이너든 물리치라고 들었다고!",
+      4: "에테르파라다이스의 파워를 보여드리겠습니다!",
+      5: "에테르파라다이스 중심의 어둠을 알아내다니. 이제 사라져 주셔야겠습니다!"
     },
     "victory": {
-      1: "Hmph! You seem to have a lot of skill.",
-      2: "What does this mean? What does this mean!",
-      3: "Hey! You're so strong that there's no way I can turn you away!",
-      4: "Hmm... It seems as though I may have lost.",
-      5: "Here's an impression for you: Aiyee!"
+      1: "흥! 실력이 대단하시군요.",
+      2: "이게 뭐하는 상황이지? 무슨 결과냐고!",
+      3: "이런! 넌 너무 강해서 물리칠 방법도 없다고!",
+      4: "으음… 제가 진 것처럼 보이네요.",
+      5: "이 느낌을 한마디로 하면. 게에이~힝!!"
     },
   },
   "faba": {
     "encounter": {
-      1: "I, Branch Chief Faba, shall show you the harshness of the real world!",
-      2: "The man who is called Aether Paradise's last line of defense is to battle a mere child?",
-      3: "I, Faba, am the Aether Branch Chief. The only one in the world, I'm irreplaceable."
+      1: "나, 에테르재단의 자우보! 꼬맹이 녀석에게 현실을 보여주겠어요!",
+      2: "에테르파라다이스 마지막 보루라고 불리는, 이 자우보에게 애를 상대하라고요?",
+      3: "에테르재단의 지부장이라면 세계에 단 한 명… 이 자우보뿐입니다."
     },
     "victory": {
-      1: "Aiyee!",
-      2: "H-h-how can this be?! How could this child...",
-      3: "This is why... This is why I can't bring myself to like children."
+      1: "게에이~힝!!",
+      2: "뭐 뭐뭐뭐 뭐가 어떻게 된 거죠? 내가 애를 상대로…",
+      3: "이래서 애는… 좋아할 수가 없어요."
     },
   },
   "skull_grunt": {
     "encounter": {
-      1: "We're not bad-we're just hard!",
-      2: "You want some? That's how we say hello! Nice knowing you, punks!",
-      3: "We're just a bunch of guys and gals with a great interest in other people's Pokémon!",
-      4: "Why you trying to act hard when we're already hard as bones out here, homie?",
-      5: "Team Skull represent! We can't pay the rent! Had a lot of fun, but our youth was misspent!"
+      1: "나쁜 짓 안해-그냥 사는 게 힘들 뿐스컬!",
+      2: "껌 하나 드실? 이게 우리가 인사하는 방식YO! 만나서 반갑스컬!",
+      3: "우린 그냥 다른 사람의 포켓몬에 관심이 많을 뿐임다!",
+      4: "어이 어이! 잘난 체하는 녀석한테 무시당하고 있잖스컬!!",
+      5: "우리는 리프리젠트 땡땡이 스컬-! 집세는 못 내겠지만-! 정말 즐거웠지만, 청춘을 날려YO!"
     },
     "victory": {
-      1: "Huh? Is it over already?",
-      2: "Time for us to break out, yo! Gotta tell y'all peace out, yo!",
-      3: "We don't need your wack Pokémon anyway!",
-      4: "Wha-?! This kid's way too strong-no bones about it!",
-      5: "So, what? I'm lower than a Pokémon?! I already got self-esteem issues, man."
+      1: "엥? 벌써 끝났슴까?",
+      2: "미는 엑시트! 유는 피쓰풀!",
+      3: "꼬마 녀석의 이상한 포켓몬엔 관심 없어!",
+      4: "뭐야-?! 너무 강해서 뼈도 못 추리겠어!",
+      5: "우리가 포켓몬보다 아래야!? 소중히 대해주면 안 돼? 으응!?"
     },
   },
   "plumeria": {
     "encounter": {
-      1: " ...Hmph. You don't look like anything special to me.",
-      2: "It takes these dumb Grunts way too long to deal with you kids..",
-      3: "Mess with anyone in Team Skull, and I'll show you how serious I can get."
+      1: "…아무것도 느껴지지 않는 평~범한 애로 보이는데!",
+      2: "워낙 애들 상대로 우물쭈물 하길래 오래 걸릴 줄 알았지…",
+      3: "누구라도 스컬단 또 방해하면, 정말로 혼내줄 테니까!"
     },
     "victory": {
-      1: "Hmmph! You're pretty strong. I'll give you that.",
-      2: "Hmmph. Guess you are pretty tough. Now I understand why my Grunts waste so much time battling kids.",
-      3: "Hmmph! I guess I just have to hold that loss."
+      1: "흥! 대단하군.",
+      2: "흐음, 너 참 대단하군. 애들을 상대로 질질 끈 이유가 이해될 정도로 강해.",
+      3: "흠. 이 손실은 그냥 안고 가야겠어."
     },
   },
   "macro_grunt": {
     "encounter": {
-      1: "It looks like this is the end of the line for you!",
-      2: "You are a trainer aren't you? I'm afraid that doesn't give you the right to interfere in our work.",
-      3: "I'm from Macro Cosmos Insurance! Do you have a life insurance policy?"
+      1: "당신은 여기서 끝날 것 같네요!",
+      2: "당신은 트레이너 맞죠? 하지만 우리를 방해하는 건 용납 못 합니다!",
+      3: "매크로코스모스 생명입니다! 가입하신 실비보험은 있으신가요?"
     },
     "victory": {
-      1: "I have little choice but to respectfully retreat.",
-      2: "Having to give up my pocket money... Losing means I'm back in the red...",
-      3: "Nobody can beat Macro Cosmos when it comes to our dedication to our work!"
+      1: "순순히 물러나는 것 말고는 선택지가 없군요.",
+      2: "용돈을 뺏기다니… 패배는 적자로 이어지는구나…",
+      3: "매크로코스모스 생명에 관한 일이라면 누구에게도 지지 않을 텐데…"
     },
   },
   "oleana": {
     "encounter": {
-      1: "I won't let anyone interfere with Mr. Rose's plan!",
-      2: "So, you got through all of the special staff that I had ordered to stop you. I would expect nothing less.",
-      3: "For the chairman! I won't lose!"
+      1: "로즈님을 방해하는 것은 절대로 용서할 수 없으니까요!",
+      2: "저의 지시를 따르는 특별한 스태프들을 아무렇지도 않게 쓰러뜨리다니. …더 기대되는 것도 없네요.",
+      3: "로즈님을 위해서라면! 질 수 없습니다!"
     },
     "victory": {
-      1: "*sigh* I wasn't able to win... Oleana...you really are a hopeless woman.",
-      2: "Arghhh! This is inexcusable... What was I thinking... Any trainer who's made it this far would be no pushover..",
-      3: "*sigh* I am one tired Oleana..."
+      1: "아아… 이기지 못하다니… 올리브… 넌 정말 구제 불능이구나.",
+      2: "하아아…! 이런 실수를 하다니… 승리를 거듭한 트레이너의 실력을 너무 얕잡아봤던 모양이네요.",
+      3: "아아… 이 올리브님 조금 지쳤어…"
     },
   },
   "rocket_boss_giovanni_1": {
@@ -890,78 +890,78 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "aether_boss_lusamine_1": {
     "encounter": {
-      1: "You're going to startle my sweet beast! It looks like I'll need to silence you first."
+      1: "비스트가 놀라잖아! …우선은 너를 조용히 시켜야겠어."
     },
     "victory": {
-      1: "How.. how can you be so awful!"
+      1: "……너무해!"
     },
     "defeat": {
-      1: "Hmph..."
+      1: "흐음…"
     }
   },
   "aether_boss_lusamine_2": {
     "encounter": {
-      1: `Why must you continue to pester me?! I am sick of you. Sick through and through!
-          $Enough with this useless talk.. with Nihilego's power I will show you how wrong you were to come here!`
+      1: `그렇게 말했는데도! …왜 이리 끈질긴 거야! 정말 진절머리가 나.
+          $더 말해봐야 소용 없겠지… 텅비드의 힘으로 네가 여기까지 온 걸 후회하게 해줄게!`
     },
     "victory": {
-      1: "Aaauuuggghhhhhhhhh!!!"
+      1: "………아아아웃!!"
     },
     "defeat": {
-      1: "All that I want is my precious beast! I don't care about any of the rest of you!"
+      1: "나는 비스트만 있으면 돼! 너희가 어떻게 되든 상관없어!"
     }
   },
   "skull_boss_guzma_1": {
     "encounter": {
-      1: `The hated boss who beats you down and beats you down and never lets up...
-          $Yeah. Big bad Guzma is here!`
+      1: `박살 내고 박살 내도 절대 봐주지 않아…
+          $모두가 싫어하는 구즈마가 여기 있다!`
     },
     "victory": {
-      1: "Tch. I'm gonna beat you down one of these days!"
+      1: "쯧. 너는 내가 박살 내주겠어!"
     },
     "defeat": {
-      1: "And you came all the way out here just for that, huh?"
+      1: "겨우 그걸 위해서 일부러 온 거야?"
     }
   },
   "skull_boss_guzma_2": {
     "encounter": {
-      1: `Doesn't matter who I'm up against, I'm gonna beat them down!
-          $That's what big bad Guzma is all about!`
+      1: `누구든지 박살 낸다!
+          $그것이 구즈마님의 아이덴티티!!`
     },
     "victory": {
-      1: "Guzma!!! What is wrong with you?!"
+      1: "구즈마!!! 뭐 하고 있는 거야?!"
     },
     "defeat": {
-      1: "Y'all are stupid!"
+      1: "너희들 바보군!"
     }
   },
   "macro_boss_rose_1": {
     "encounter": {
-      1: `I must provide limitless energy to ensure everlasting prosperity for everyone...
-          $It is my purpose, my duty, my destiny!`
+      1: `내게는 모든 사람이 영원히 마음을 놓고 발전할 수 있도록…
+          $무한한 에너지를 가져다 줘야 한다는 신념과 사명이 있단다!`
     },
     "victory": {
-      1: `You still don't understand, trainer...
-          $We... No, I am going to change the course of history!`
+      1: `아직 무르군… 트레이너.
+          $역사는 바뀔 것이네! 이 나의 손에 의해서 말이지`
     },
     "defeat": {
-      1: "You still don't understand a thing!"
+      1: "자네는 여전히 깨닫지 못했군!"
     }
   },
   "macro_boss_rose_2": {
     "encounter": {
-      1: `I'm committed to solving the energy problem in the Galar region—and, of course, around the world.
-          $My experience and accomplishments that made Macro Cosmos a success are proof my methods work.
-          $I don't intend to change my mind, even if I lose.`
+      1: `나는 가라르를 포함한— 전 세계의 에너지 문제를 해결하기 위해 최선을 다하고 있어.
+          $매크로코스모스를 성공으로 이끈 경험과 성과는 내 방식이 효율적이라는 증거란다.
+          $생각을 바꿀 마음은 없어. 내가 지더라도.`
 
     },
     "victory": {
-      1: `I'd forgotten how great Pokémon battles are! It's been so long since I battled...
-          $That sure was satisfying, I accept defeat for this battle.`
+      1: `포켓몬 승부는 좋군! 오랜만에 싸워보니 만족스러워…
+          $제법 괜찮군. 패배를 인정하지.`
     },
     "defeat": {
-      1: `I suppose it must seem that I am doing something terrible. I don't expect you to understand.
-          $But I must provide the Galar region with limitless energy to ensure everlasting prosperity.`
+      1: `너희가 보기에는 내가 끔찍한 짓을 벌이고 있는 것처럼 보이겠지? 조금도 이해가 가지 않을 거야.
+          $하지만 난 가라르지방의 영원한 번영을 위해서 무한한 에너지를 가져다줘야 해.`
     }
   },
   "brock": {
