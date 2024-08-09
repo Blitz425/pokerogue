@@ -19,9 +19,9 @@ export const titles: SimpleTranslationEntries = {
   "galactic_boss": "Chefe da Equipe Galáctica",
   "plasma_boss": "Chefe da Equipe Plasma",
   "flare_boss": "Chefe da Equipe Flare",
-  "aether_boss": "Aether President",
-  "skull_boss": "Team Skull Boss",
-  "macro_boss": "Macro Cosmos President",
+  "aether_boss": "Presidente Aether",
+  "skull_boss": "Chefe da Equipe Skull",
+  "macro_boss": "Presidente da Macro Cosmos",
 
   "rocket_admin": "Team Rocket Admin",
   "rocket_admin_female": "Team Rocket Admin",
@@ -35,8 +35,8 @@ export const titles: SimpleTranslationEntries = {
   "plasma_admin": "Team Plasma Admin",
   "flare_admin": "Team Flare Admin",
   "flare_admin_female": "Team Flare Admin",
-  "aether_admin": "Aether Foundation Admin",
-  "skull_admin": "Team Skull Admin",
+  "aether_admin": "Admin da Fundação Aether",
+  "skull_admin": "Admin da Equipe Skull",
   "macro_admin": "Macro Cosmos",
   // Maybe if we add the evil teams we can add "Team Rocket" and "Team Aqua" etc. here as well as "Team Rocket Boss" and "Team Aqua Admin" etc.
 } as const;
@@ -162,15 +162,15 @@ export const trainerClasses: SimpleTranslationEntries = {
   "flare_grunt": "Recruta da Equipe Flare",
   "flare_grunt_female": "Recruta da Equipe Flare",
   "flare_grunts": "Recrutas da Equipe Flare",
-  "aether_grunt": "Aether Foundation Employee",
-  "aether_grunt_female": "Aether Foundation Employee",
-  "aether_grunts": "Aether Foundation Employees",
-  "skull_grunt": "Team Skull Grunt",
-  "skull_grunt_female": "Team Skull Grunt",
-  "skull_grunts": "Team Skull Grunts",
-  "macro_grunt": "Macro Cosmos Trainer",
-  "macro_grunt_female": "Macro Cosmos Trainer",
-  "macro_grunts": "Macro Cosmos Trainers",
+  "aether_grunt": "Funcionário da Fundação Aether",
+  "aether_grunt_female": "Funcionária da Fundação Aether",
+  "aether_grunts": "Funcionários da Fundação Aether",
+  "skull_grunt": "Capanga da Equipe Skull",
+  "skull_grunt_female": "Capanga da Equipe Skull",
+  "skull_grunts": "Capangas da Equipe Skull",
+  "macro_grunt": "Treinador da Macro Cosmos",
+  "macro_grunt_female": "Treinadora da Macro Cosmos",
+  "macro_grunts": "Treinadores da Macro Cosmos",
 } as const;
 
 // Names of special trainers like gym leaders, elite four, and the champion
