@@ -324,6 +324,9 @@ export class TrainerConfig {
     case TrainerType.LYSANDRE_2:
       trainerType = TrainerType.LYSANDRE;
       break;
+    case TrainerType.LUSAMINE_2:
+      trainerType = TrainerType.LUSAMINE;
+      break;	  
     case TrainerType.GUZMA_2:
       trainerType = TrainerType.GUZMA;
       break;
