@@ -1867,7 +1867,7 @@ export const trainerConfigs: TrainerConfigs = {
       p.pokeball = PokeballType.ULTRA_BALL;
     }))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.BASCULEGION, Species.JELLICENT ], TrainerSlot.TRAINER, true, p => {
-      p.generateAndPopulateMoveset
+      p.generateAndPopulateMoveset;
       p.gender = Gender.MALE;
       p.formIndex = 1;
     }))
@@ -1888,7 +1888,7 @@ export const trainerConfigs: TrainerConfigs = {
     .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.MIENSHAO ]))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.HONCHKROW, Species.TALONFLAME ]))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.PYROAR ], TrainerSlot.TRAINER, true, p => {
-      p.generateAndPopulateMoveset
+      p.generateAndPopulateMoveset;
       p.gender = Gender.MALE;
     }))
     .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.CLAWITZER, Species.DRAGALGE ]))
@@ -1907,7 +1907,7 @@ export const trainerConfigs: TrainerConfigs = {
       p.pokeball = PokeballType.MASTER_BALL;
     }))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.PYROAR ], TrainerSlot.TRAINER, true, p => {
-      p.generateAndPopulateMoveset
+      p.generateAndPopulateMoveset;
       p.gender = Gender.MALE;
     }))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.IRON_MOTH ]))
