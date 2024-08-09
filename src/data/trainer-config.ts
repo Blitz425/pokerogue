@@ -326,7 +326,7 @@ export class TrainerConfig {
       break;
     case TrainerType.LUSAMINE_2:
       trainerType = TrainerType.LUSAMINE;
-      break;	  
+      break;
     case TrainerType.GUZMA_2:
       trainerType = TrainerType.GUZMA;
       break;
