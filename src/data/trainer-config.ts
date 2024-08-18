@@ -1403,7 +1403,7 @@ export const trainerConfigs: TrainerConfigs = {
     .setSpeciesPools({
       [TrainerPoolTier.COMMON]: [ Species.CUFANT, Species.GALAR_MEOWTH, Species.KLINK, Species.ROOKIDEE, Species.CRAMORANT, Species.GALAR_ZIGZAGOON, Species.SKWOVET, Species.STEELIX, Species.MAWILE],
       [TrainerPoolTier.UNCOMMON]: [ Species.DRILBUR, Species.FERROSEED, Species.MAGNEMITE, Species.HATENNA, Species.ARROKUDA, Species.APPLIN, Species.GALAR_PONYTA, Species.GALAR_YAMASK, Species.SINISTEA],
-      [TrainerPoolTier.RARE]: [Species.FALINKS, Species.BELDUM, Species.ORTHWORM, Species.DRACOVISH, Species.DRACOZOLT, Species.HONEDGE, Species.SCIZOR, Species.RIOLU, Species.GALAR_DARUMAKA],
+      [TrainerPoolTier.RARE]: [Species.FALINKS, Species.BELDUM, Species.GALAR_FARFETCHD, Species.GALAR_MR_MIME, Species.HONEDGE, Species.SCIZOR, Species.RIOLU, Species.GALAR_DARUMAKA],
       [TrainerPoolTier.SUPER_RARE]: [Species.DURALUDON, Species.DREEPY]
     }),
   [TrainerType.OLEANA]: new TrainerConfig(++t).setMoneyMultiplier(1.5).initForEvilTeamAdmin("macro_admin", "macro", [Species.GARBODOR]).setEncounterBgm(TrainerType.PLASMA_GRUNT).setBattleBgm("battle_plasma_grunt").setMixedBattleBgm("battle_oleana").setVictoryBgm("victory_team_plasma").setPartyTemplateFunc(scene => getEvilGruntPartyTemplate(scene)),
@@ -2007,7 +2007,7 @@ export const trainerConfigs: TrainerConfigs = {
     .setPartyMemberFunc(0, getRandomPartyMemberFunc([ Species.ARCHALUDON ]))
     .setPartyMemberFunc(1, getRandomPartyMemberFunc([ Species.FERROTHORN, Species.ESCAVALIER ]))
     .setPartyMemberFunc(2, getRandomPartyMemberFunc([ Species.SIRFETCHD, Species.MR_RIME ]))
-    .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.CORVIKNIGHT, Species.SKARMORY ]))
+    .setPartyMemberFunc(3, getRandomPartyMemberFunc([ Species.CORVIKNIGHT ]))
     .setPartyMemberFunc(4, getRandomPartyMemberFunc([ Species.PERRSERKER, Species.KLINKLANG ]))
     .setPartyMemberFunc(5, getRandomPartyMemberFunc([ Species.COPPERAJAH ], TrainerSlot.TRAINER, true, p => {
       p.setBoss(true, 2);
