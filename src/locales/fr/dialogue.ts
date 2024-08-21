@@ -72,7 +72,7 @@ export const PGMdialogue: DialogueTranslationEntries = {
     "defeat": {
       1: "Tu ne devrais pas t’énerver sur tes Pokémon, même après une défaite.",
       2: "Alors ? Pas mal mes Pokémon, hein ? Je suis fait pour ça.",
-      3: "Peut importe à quel point t’aimes tes Pokémon, il faut toujours de la discipline s’ils se comportent mal."
+      3: "Peu importe à quel point t’aimes tes Pokémon, il faut toujours de la discipline s’ils se comportent mal."
     }
   },
   "breeder_female": {
@@ -483,14 +483,14 @@ export const PGMdialogue: DialogueTranslationEntries = {
     "encounter": {
       1: "Je vais te mettre ta raclée !",
       2: "J'en ai rien à faire que tu sois un gosse. Tu vas tutoyer les étoiles si tu nous menaces !",
-      3: "J’ai pour ordre de ne laisser passer aucun Dresseur, peut importe qui c’est !",
+      3: "J’ai pour ordre de ne laisser passer aucun Dresseur, peu importe qui c’est !",
       4: "Je vais te montrer le pouvoir du Paradis Æther !",
       5: "Maintenant que t’es au courant de ce qu’il se passe au cœur du Paradis Æther, fais-moi une faveur et disparait !"
     },
     "victory": {
       1: "C’est plutôt toi qui devrait m’apprendre à en mettre…",
       2: "Pardon ? J’ai pas compris…",
-      3: "Peut importe les ordres, jamais j’aurais pu te retenir en fait…",
+      3: "Peu importe les ordres, jamais j’aurais pu te retenir en fait…",
       4: "Mhh… Il semblerait que j’ai perdu.",
       5: "C’est plutôt moi qui va disparaitre je crois."
     },
@@ -2788,7 +2788,7 @@ export const PGFdialogue: DialogueTranslationEntries = {
     "defeat": {
       1: "Tu ne devrais pas t’énerver sur tes Pokémon, même après une défaite.",
       2: "Alors ? Pas mal mes Pokémon, hein ? Je suis fait pour ça.",
-      3: "Peut importe à quel point t’aimes tes Pokémon, il faut toujours de la discipline s’ils se comportent mal."
+      3: "Peu importe à quel point t’aimes tes Pokémon, il faut toujours de la discipline s’ils se comportent mal."
     }
   },
   "breeder_female": {
@@ -3348,14 +3348,14 @@ export const PGFdialogue: DialogueTranslationEntries = {
     "encounter": {
       1: "Je vais te mettre ta raclée !",
       2: "J'en ai rien à faire que tu sois une gosse. Tu vas tutoyer les étoiles si tu nous menaces !",
-      3: "J’ai pour ordre de ne laisser passer aucun Dresseur, peut importe qui c’est !",
+      3: "J’ai pour ordre de ne laisser passer aucun Dresseur, peu importe qui c’est !",
       4: "Je vais te montrer le pouvoir du Paradis Æther !",
       5: "Maintenant que t’es au courant de ce qu’il se passe au cœur du Paradis Æther, fais-moi une faveur et disparait !"
     },
     "victory": {
       1: "C’est plutôt toi qui devrait m’apprendre à en mettre…",
       2: "Pardon ? J’ai pas compris…",
-      3: "Peut importe les ordres, jamais j’aurais pu te retenir en fait…",
+      3: "Peu importe les ordres, jamais j’aurais pu te retenir en fait…",
       4: "Mhh… Il semblerait que j’ai perdu.",
       5: "C’est plutôt moi qui va disparaitre je crois."
     },
