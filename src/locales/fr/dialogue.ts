@@ -481,82 +481,86 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "aether_grunt": {
     "encounter": {
-      1: "I'll fight you with all I have to wipe you out!",
-      2: "I don't care if you're a kid or what. I'll send you flying if you threaten us!",
-      3: "I was told to turn away Trainers, whomever they might be!",
-      4: "I'll show you the power of Aether Paradise!",
-      5: "Now that you've learned of the darkness at the heart of Aether Paradise, we'll need you to conveniently disappear!"
+      1: "Je vais te mettre ta raclée !",
+      2: "J'en ai rien à faire que tu sois un gosse. Tu vas tutoyer les étoiles si tu nous menaces !",
+      3: "J’ai pour ordre de ne laisser passer aucun Dresseur, peut importe qui c’est !",
+      4: "Je vais te montrer le pouvoir du Paradis Æther !",
+      5: "Maintenant que t’es au courant de ce qu’il se passe au cœur du Paradis Æther, fais-moi une faveur et disparait !"
     },
     "victory": {
-      1: "Hmph! You seem to have a lot of skill.",
-      2: "What does this mean? What does this mean!",
-      3: "Hey! You're so strong that there's no way I can turn you away!",
-      4: "Hmm... It seems as though I may have lost.",
-      5: "Here's an impression for you: Aiyee!"
+      1: "C’est plutôt toi qui devrait m’apprendre à en mettre…",
+      2: "Pardon ? J’ai pas compris…",
+      3: "Peut importe les ordres, jamais j’aurais pu te retenir en fait…",
+      4: "Mhh… Il semblerait que j’ai perdu.",
+      5: "C’est plutôt moi qui va disparaitre je crois."
     },
   },
   "faba": {
     "encounter": {
-      1: "I, Branch Chief Faba, shall show you the harshness of the real world!",
-      2: "The man who is called Aether Paradise's last line of defense is to battle a mere child?",
-      3: "I, Faba, am the Aether Branch Chief. The only one in the world, I'm irreplaceable."
+      1: "Moi, Directeur Saubohne, je vais te montrer de quel bois je me chauffe !",
+      2: "Donc là, l’homme supposé être la dernière ligne défense du Paradis Æther doit affronter un mioche ?",
+      3: "S’il n’y a qu’un seul nom à retenir au sein de la Fondation Æther, c’est le mien : Saubohne !"
     },
     "victory": {
-      1: "Aiyee!",
-      2: "H-h-how can this be?! How could this child...",
-      3: "This is why... This is why I can't bring myself to like children."
+      1: "Gloups !",
+      2: "Malheur ! J’ai perdu face à un simple enfant ?!",
+      3: "J’ai HORREUR des enfants !"
     },
   },
   "skull_grunt": {
     "encounter": {
-      1: "We're not bad-we're just hard!",
-      2: "You want some? That's how we say hello! Nice knowing you, punks!",
-      3: "We're just a bunch of guys and gals with a great interest in other people's Pokémon!",
-      4: "Why you trying to act hard when we're already hard as bones out here, homie?",
-      5: "Team Skull represent! We can't pay the rent! Had a lot of fun, but our youth was misspent!"
+      1: "Oush oush ! On est pas méchants, sauf si tu viens nous allumer la mèche-han !",
+      2: "Ce manque de respect, j’hallucine ! T’es allé trop loin, le mioche !",
+      3: "On est juste des gars et des meufs normaux, on voit un Pokémon on le prend !",
+      4: "Pourquoi tu te la joue comme ça ? C'est avec tes dents que t’vas jouer frérot.",
+      5: `Cousin, écoute-nous bien ! ♪\nSe taper dessus, ça sert à rien ! ♪
+         $Tu t’incrustes chez nous, ça s’fait pas ! ♪\n$Mais on est sympa, on a un plan pour toi ! ♪`
     },
     "victory": {
-      1: "Huh? Is it over already?",
-      2: "Time for us to break out, yo! Gotta tell y'all peace out, yo!",
-      3: "We don't need your wack Pokémon anyway!",
-      4: "Wha-?! This kid's way too strong-no bones about it!",
-      5: "So, what? I'm lower than a Pokémon?! I already got self-esteem issues, man."
+      1: "Hein ? C’est déjà terminé ?",
+      2: "… Ça craint grave ! On s’tire !",
+      3: "Ouais de toute on en avait pas b’soin de ton Pokémon… Ha ha…",
+      4: "Ouh là, c’est bon, j’en demandais pas tant…",
+      5: "On pèse plus que des Pokémon, t’entends ?\nAlors tu vas nous respecter, oush !"
     },
   },
   "plumeria": {
     "encounter": {
-      1: " ...Hmph. You don't look like anything special to me.",
-      2: "It takes these dumb Grunts way too long to deal with you kids..",
-      3: "Mess with anyone in Team Skull, and I'll show you how serious I can get."
+      1: "Tsk. T’es un gamin tout ce qu’il y a de plus banal, en fait.",
+      2: "Abrutis de sbires. Trop incompétants pour arriver à se débarasser de gamins…",
+      3: "Si tu touches encore à un cheveu de mes lascars, tu vas pas comprendre c’qui t’arrive !"
     },
     "victory": {
-      1: "Hmmph! You're pretty strong. I'll give you that.",
-      2: "Hmmph. Guess you are pretty tough. Now I understand why my Grunts waste so much time battling kids.",
-      3: "Hmmph! I guess I just have to hold that loss."
+      1: "Tsk. T’es pas mauvais. J’te l’accorde.",
+      2: `Tsk. J’dois reconnaitre que t’en as dans le ventre.
+         $Maintenant, j’comprends pourquoi mes gars n’arrêtent pas de se faire battre par vous.`,
+      3: "Tsk. J’crois que j'ai plus qu’à assumer ma défaite."
     },
   },
   "macro_grunt": {
     "encounter": {
-      1: "It looks like this is the end of the line for you!",
-      2: "You are a trainer aren't you? I'm afraid that doesn't give you the right to interfere in our work.",
-      3: "I'm from Macro Cosmos Insurance! Do you have a life insurance policy?"
+      1: "Hop hop hop ! Terminus !",
+      2: `T’es un Dresseur n’est-ce pas ?
+         $J’ai bien peur ce que ne soit pas une excuse suffisante pour nous interrompre dans notre travail.`,
+      3: "Je travaille à Macro Cosmos Assurances !\nBesoin d’une assurance-vie ?"
     },
     "victory": {
-      1: "I have little choice but to respectfully retreat.",
-      2: "Having to give up my pocket money... Losing means I'm back in the red...",
-      3: "Nobody can beat Macro Cosmos when it comes to our dedication to our work!"
+      1: "Je n’ai d’autre choix que respectueusement me retirer.",
+      2: "Mon argent de poche…\nPlus qu’à manger des pâtes pour la fin du mois…",
+      3: "Chez Macro Cosmos, rien n’est comparable à notre dévotion au travail !"
     },
   },
   "oleana": {
     "encounter": {
-      1: "I won't let anyone interfere with Mr. Rose's plan!",
-      2: "So, you got through all of the special staff that I had ordered to stop you. I would expect nothing less.",
-      3: "For the chairman! I won't lose!"
+      1: "Je ne laisserai personne interférer avec les projets du président Shehroz.",
+      2: `Je vois que vous avez su vous défaire de mes subalternes.
+         $Mais assez joué. Il est temps de rentrer chez vous, maintenant`,
+      3: "Je gagnerai en votre nom, monsieur le président."
     },
     "victory": {
-      1: "*sigh* I wasn't able to win... Oleana...you really are a hopeless woman.",
-      2: "Arghhh! This is inexcusable... What was I thinking... Any trainer who's made it this far would be no pushover..",
-      3: "*sigh* I am one tired Oleana..."
+      1: "*soupir* Comment ai-je fait pour perdre ainsi… ?\nJe ne suis vraiment pas à la hauteur…",
+      2: "Ah ! Quelle erreur… Je n'aurais pas dû sous-estimer un Dresseur te ton calibre…",
+      3: "*soupir* Je suis fatiguée parton…"
     },
   },
   "rocket_boss_giovanni_1": {
@@ -693,78 +697,79 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "aether_boss_lusamine_1": {
     "encounter": {
-      1: "You're going to startle my sweet beast! It looks like I'll need to silence you first."
+      1: "Ne vois-tu pas que tu fais peur à ma pauvre Ultra-Chimère ? Je vais devoir te réduire au silence…"
     },
     "victory": {
-      1: "How.. how can you be so awful!"
+      1: "Quelle cruauté !"
     },
     "defeat": {
-      1: "Hmph..."
+      1: "Pfff…"
     }
   },
   "aether_boss_lusamine_2": {
     "encounter": {
-      1: `Why must you continue to pester me?! I am sick of you. Sick through and through!
-          $Enough with this useless talk.. with Nihilego's power I will show you how wrong you were to come here!`
+      1: `Pourquoi diable dois-je me coltiner ton visage ingrat, où que j’aille ?!
+          $Je ne sais même pas pourquoi je continue à discuter…
+          $Avec Zéroïd, je vais te faire regretter d’avoir mis les pieds ici.`
     },
     "victory": {
-      1: "Aaauuuggghhhhhhhhh!!!"
+      1: "Aaaaah !"
     },
     "defeat": {
-      1: "All that I want is my precious beast! I don't care about any of the rest of you!"
+      1: `Cette Ultra-Chimère est la seule chose qui compte à mes yeux !
+          Vous pouvez tous disparaitre, cela m’est égal !`
     }
   },
   "skull_boss_guzma_1": {
     "encounter": {
-      1: `The hated boss who beats you down and beats you down and never lets up...
-          $Yeah. Big bad Guzma is here!`
+      1: `Place au boss que tout le monde déteste, celui qui adore éclater des têtes…
+          $Bling bling et sapes de marque, c’est Guzma qui débarque !`
     },
     "victory": {
-      1: "Tch. I'm gonna beat you down one of these days!"
+      1: "Toi… Un jour ou l’autre, j’te ferai ta fête…"
     },
     "defeat": {
-      1: "And you came all the way out here just for that, huh?"
+      1: "Et donc, tu es venu tout seul comme un gentil petit Ponchiot…"
     }
   },
   "skull_boss_guzma_2": {
     "encounter": {
-      1: `Doesn't matter who I'm up against, I'm gonna beat them down!
-          $That's what big bad Guzma is all about!`
+      1: "J’prends tout le monde sans exception !\nC’est ça d’être un boss !"
     },
     "victory": {
-      1: "Guzma!!! What is wrong with you?!"
+      1: "Guzma, mais tu nous as fait quoi là ?!"
     },
     "defeat": {
-      1: "Y'all are stupid!"
+      1: "Tu serais pas un peu timbré sur les bords ?"
     }
   },
   "macro_boss_rose_1": {
     "encounter": {
-      1: `I must provide limitless energy to ensure everlasting prosperity for everyone...
-          $It is my purpose, my duty, my destiny!`
+      1: `Je dois fournir cette énergie infinie pour assurer la prospérité éternelle de ce monde…
+          $C'est mon objectif, mon devoir, mon destin !`
     },
     "victory": {
-      1: `You still don't understand, trainer...
-          $We... No, I am going to change the course of history!`
+      1: `Tu ne comprends donc toujours pas, Dresseur…
+          $Nous… Non, JE vais changer le cours de l’Histoire!`
     },
     "defeat": {
-      1: "You still don't understand a thing!"
+      1: "Tu ne comprends donc toujours rien."
     }
   },
   "macro_boss_rose_2": {
     "encounter": {
-      1: `I'm committed to solving the energy problem in the Galar region—and, of course, around the world.
-          $My experience and accomplishments that made Macro Cosmos a success are proof my methods work.
-          $I don't intend to change my mind, even if I lose.`
-
+      1: `Je me dédie à trouver un solution aux problèmes énergétiques de Galar, mais aussi évidemment du monde.
+          $Mon expérience et mes mérites sont les clés du succès de Macro Cosmos et de mes méthodes de travail.
+          $Je ne reculerai pas, même si je suis défait.`
     },
     "victory": {
-      1: `I'd forgotten how great Pokémon battles are! It's been so long since I battled...
-          $That sure was satisfying, I accept defeat for this battle.`
+      1: "J’avais oublié à quel point les combats Pokémon pouvaient être exaltants !"
     },
     "defeat": {
-      1: `I suppose it must seem that I am doing something terrible. I don't expect you to understand.
-          $But I must provide the Galar region with limitless energy to ensure everlasting prosperity.`
+      1: `C’est probablement difficile à comprendre pour quelqu’un de ton âge.
+          $Mais ce que je fais n’est en rien une mauvaise chose.
+          $J’œuvre pour la prospérité éternelle de ma très chère région de Galar.
+          $En exploitant une source infinie d’énergie. Rien de plus, rien de moins.`
     }
   },
   "brock": {
@@ -3339,6 +3344,90 @@ export const PGFdialogue: DialogueTranslationEntries = {
       1: "Mon futur me semble guère radieux."
     },
   },
+  "aether_grunt": {
+    "encounter": {
+      1: "Je vais te mettre ta raclée !",
+      2: "J'en ai rien à faire que tu sois une gosse. Tu vas tutoyer les étoiles si tu nous menaces !",
+      3: "J’ai pour ordre de ne laisser passer aucun Dresseur, peut importe qui c’est !",
+      4: "Je vais te montrer le pouvoir du Paradis Æther !",
+      5: "Maintenant que t’es au courant de ce qu’il se passe au cœur du Paradis Æther, fais-moi une faveur et disparait !"
+    },
+    "victory": {
+      1: "C’est plutôt toi qui devrait m’apprendre à en mettre…",
+      2: "Pardon ? J’ai pas compris…",
+      3: "Peut importe les ordres, jamais j’aurais pu te retenir en fait…",
+      4: "Mhh… Il semblerait que j’ai perdu.",
+      5: "C’est plutôt moi qui va disparaitre je crois."
+    },
+  },
+  "faba": {
+    "encounter": {
+      1: "Moi, Directeur Saubohne, je vais te montrer de quel bois je me chauffe !",
+      2: "Donc là, l’homme supposé être la dernière ligne défense du Paradis Æther doit affronter une mioche ?",
+      3: "S’il n’y a qu’un seul nom à retenir au sein de la Fondation Æther, c’est le mien : Saubohne !"
+    },
+    "victory": {
+      1: "Gloups !",
+      2: "Malheur ! J’ai perdu face à une simple enfant ?!",
+      3: "J’ai HORREUR des enfants !"
+    },
+  },
+  "skull_grunt": {
+    "encounter": {
+      1: "Oush oush ! On est pas méchants, sauf si tu viens nous allumer la mèche-han !",
+      2: "Ce manque de respect, j’hallucine ! T’es allée trop loin, la mioche !",
+      3: "On est juste des gars et des meufs normaux, on voit un Pokémon on le prend !",
+      4: "Pourquoi tu te la joue comme ça ? C'est avec tes dents que t’vas jouer ma reus.",
+      5: `Cousin, écoute-nous bien ! ♪\nSe taper dessus, ça sert à rien ! ♪
+         $Tu t’incrustes chez nous, ça s’fait pas ! ♪\n$Mais on est sympa, on a un plan pour toi ! ♪`
+    },
+    "victory": {
+      1: "Hein ? C’est déjà terminé ?",
+      2: "… Ça craint grave ! On s’tire !",
+      3: "Ouais de toute on en avait pas b’soin de ton Pokémon… Ha ha…",
+      4: "Ouh là, c’est bon, j’en demandais pas tant…",
+      5: "On pèse plus que des Pokémon, t’entends ?\nAlors tu vas nous respecter, oush !"
+    },
+  },
+  "plumeria": {
+    "encounter": {
+      1: "Tsk. T’es une gamine tout ce qu’il y a de plus banale, en fait.",
+      2: "Abrutis de sbires. Trop incompétants pour arriver à se débarasser de gamins…",
+      3: "Si tu touches encore à un cheveu de mes lascars, tu vas pas comprendre c’qui t’arrive !"
+    },
+    "victory": {
+      1: "Tsk. T’es pas mauvaise. J’te l’accorde.",
+      2: `Tsk. J’dois reconnaitre que t’en as dans le ventre.
+         $Maintenant, j’comprends pourquoi mes gars n’arrêtent pas de se faire battre par toi.`,
+      3: "Tsk. J’crois que j'ai plus qu’à assumer ma défaite."
+    },
+  },
+  "macro_grunt": {
+    "encounter": {
+      1: "Hop hop hop ! Terminus !",
+      2: `T’es une Dresseuse n’est-ce pas ?
+         $J’ai bien peur ce que ne soit pas une excuse suffisante pour nous interrompre dans notre travail.`,
+      3: "Je travaille à Macro Cosmos Assurances !\nBesoin d’une assurance-vie ?"
+    },
+    "victory": {
+      1: "Je n’ai d’autre choix que respectueusement me retirer.",
+      2: "Mon argent de poche…\nPlus qu’à manger des pâtes pour la fin du mois…",
+      3: "Chez Macro Cosmos, rien n’est comparable à notre dévotion au travail !"
+    },
+  },
+  "oleana": {
+    "encounter": {
+      1: "Je ne laisserai personne interférer avec les projets du président Shehroz.",
+      2: `Je vois que vous avez su vous défaire de mes subalternes.
+         $Mais assez joué. Il est temps de rentrer chez vous, maintenant`,
+      3: "Je gagnerai en votre nom, monsieur le président."
+    },
+    "victory": {
+      1: "*soupir* Comment ai-je fait pour perdre ainsi… ?\nJe ne suis vraiment pas à la hauteur…",
+      2: "Ah ! Quelle erreur… Je n'aurais pas dû sous-estimer une Dresseuse te ton calibre…",
+      3: "*soupir* Je suis fatiguée parton…"
+    },
+  },
   "rocket_boss_giovanni_1": {
     "encounter": {
       1: "Bien. Je dois admettre que je suis impressionné de te voir ici !"
@@ -3469,6 +3558,83 @@ export const PGFdialogue: DialogueTranslationEntries = {
     },
     "defeat": {
       1: "Les ignorants sans aucune vision n’auront donc de cesse de souiller ce monde."
+    }
+  },
+  "aether_boss_lusamine_1": {
+    "encounter": {
+      1: "Ne vois-tu pas que tu fais peur à ma pauvre Ultra-Chimère ? Je vais devoir te réduire au silence…"
+    },
+    "victory": {
+      1: "Quelle cruauté !"
+    },
+    "defeat": {
+      1: "Pfff…"
+    }
+  },
+  "aether_boss_lusamine_2": {
+    "encounter": {
+      1: `Pourquoi diable dois-je me coltiner ton visage ingrat, où que j’aille ?!
+          $Je ne sais même pas pourquoi je continue à discuter…
+          $Avec Zéroïd, je vais te faire regretter d’avoir mis les pieds ici.`
+    },
+    "victory": {
+      1: "Aaaaah !"
+    },
+    "defeat": {
+      1: `Cette Ultra-Chimère est la seule chose qui compte à mes yeux !
+          Vous pouvez tous disparaitre, cela m’est égal !`
+    }
+  },
+  "skull_boss_guzma_1": {
+    "encounter": {
+      1: `Place au boss que tout le monde déteste, celui qui adore éclater des têtes…
+          $Bling bling et sapes de marque, c’est Guzma qui débarque !`
+    },
+    "victory": {
+      1: "Toi… Un jour ou l’autre, j’te ferai ta fête…"
+    },
+    "defeat": {
+      1: "Et donc, tu es venue toute seule comme un gentil petit Ponchiot…"
+    }
+  },
+  "skull_boss_guzma_2": {
+    "encounter": {
+      1: "J’prends tout le monde sans exception !\nC’est ça d’être un boss !"
+    },
+    "victory": {
+      1: "Guzma, mais tu nous as fait quoi là ?!"
+    },
+    "defeat": {
+      1: "Tu serais pas un peu timbrée sur les bords ?"
+    }
+  },
+  "macro_boss_rose_1": {
+    "encounter": {
+      1: `Je dois fournir cette énergie infinie pour assurer la prospérité éternelle de ce monde…
+          $C'est mon objectif, mon devoir, mon destin !`
+    },
+    "victory": {
+      1: `Tu ne comprends donc toujours pas, Dresseuse…
+          $Nous… Non, JE vais changer le cours de l’Histoire!`
+    },
+    "defeat": {
+      1: "Tu ne comprends donc toujours rien."
+    }
+  },
+  "macro_boss_rose_2": {
+    "encounter": {
+      1: `Je me dédie à trouver un solution aux problèmes énergétiques de Galar, mais aussi évidemment du monde.
+          $Mon expérience et mes mérites sont les clés du succès de Macro Cosmos et de mes méthodes de travail.
+          $Je ne reculerai pas, même si je suis défait.`
+    },
+    "victory": {
+      1: "J’avais oublié à quel point les combats Pokémon pouvaient être exaltants !"
+    },
+    "defeat": {
+      1: `C’est probablement difficile à comprendre pour quelqu’un de ton âge.
+          $Mais ce que je fais n’est en rien une mauvaise chose.
+          $J’œuvre pour la prospérité éternelle de ma très chère région de Galar.
+          $En exploitant une source infinie d’énergie. Rien de plus, rien de moins.`
     }
   },
   "brock": {
