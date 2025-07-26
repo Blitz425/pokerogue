@@ -414,6 +414,7 @@ export const pokemonSpeciesLevelMoves: PokemonSpeciesLevelMoves = {
     [ 40, MoveId.LIGHT_SCREEN ],
     [ 44, MoveId.THUNDER ],
     [ 48, MoveId.PIKA_PAPOW ],
+    [ 100, MoveId.VOLT_TACKLE ], // Custom
   ],
   [SpeciesId.RAICHU]: [
     [ EVOLVE_MOVE, MoveId.ZIPPY_ZAP ],
@@ -439,6 +440,7 @@ export const pokemonSpeciesLevelMoves: PokemonSpeciesLevelMoves = {
     [ 1, MoveId.THUNDER_PUNCH ],
     [ 5, MoveId.THUNDERBOLT ],
     [ 50, MoveId.PIKA_PAPOW ],
+    [ 100, MoveId.VOLT_TACKLE ], // Custom
   ],
   [SpeciesId.SANDSHREW]: [
     [ 1, MoveId.SCRATCH ],
@@ -3021,6 +3023,7 @@ export const pokemonSpeciesLevelMoves: PokemonSpeciesLevelMoves = {
     [ 12, MoveId.NUZZLE ],
     [ 16, MoveId.NASTY_PLOT ],
     [ 20, MoveId.CHARM ],
+    [ 100, MoveId.VOLT_TACKLE ], // Custom
   ],
   [SpeciesId.CLEFFA]: [
     [ 1, MoveId.POUND ],
@@ -17914,6 +17917,7 @@ export const pokemonSpeciesLevelMoves: PokemonSpeciesLevelMoves = {
     [ 1, MoveId.NUZZLE ],
     [ 5, MoveId.THUNDERBOLT ],
     [ 50, MoveId.PIKA_PAPOW ],
+    [ 100, MoveId.VOLT_TACKLE ], // Custom
   ],
   [SpeciesId.ALOLA_SANDSHREW]: [
     [ 1, MoveId.SCRATCH ],
@@ -18960,6 +18964,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 42, MoveId.SPLISHY_SPLASH ], // Custom
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     2: [
       [ 1, MoveId.TAIL_WHIP ],
@@ -18983,6 +18988,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 40, MoveId.LIGHT_SCREEN ],
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     3: [
       [ 1, MoveId.METEOR_MASH ],
@@ -19007,6 +19013,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 40, MoveId.LIGHT_SCREEN ],
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     4: [
       [ 1, MoveId.ICICLE_CRASH ],
@@ -19031,6 +19038,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 40, MoveId.LIGHT_SCREEN ],
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     5: [
       [ 1, MoveId.DRAINING_KISS ],
@@ -19055,6 +19063,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 40, MoveId.LIGHT_SCREEN ],
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     6: [
       [ 1, MoveId.ELECTRIC_TERRAIN ],
@@ -19079,6 +19088,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 40, MoveId.LIGHT_SCREEN ],
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     7: [
       [ 1, MoveId.FLYING_PRESS ],
@@ -19103,6 +19113,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 40, MoveId.LIGHT_SCREEN ],
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
     8: [
       [ 1, MoveId.TAIL_WHIP ],
@@ -19128,6 +19139,7 @@ export const pokemonFormLevelMoves: PokemonSpeciesFormLevelMoves = {
       [ 42, MoveId.SPLISHY_SPLASH ], // Custom
       [ 44, MoveId.THUNDER ],
       [ 48, MoveId.PIKA_PAPOW ],
+      [ 100, MoveId.VOLT_TACKLE ], // Custom
     ],
   },
   [SpeciesId.EEVEE]: { // Custom
