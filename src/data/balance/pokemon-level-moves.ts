@@ -2804,7 +2804,7 @@ export const pokemonSpeciesLevelMoves: PokemonSpeciesLevelMoves = {
 [ 1, MoveId.TAIL_WHIP ],
 [ 1, MoveId.WORK_UP ]
 [ 1, MoveId.PURSUIT ],
-[ 1, MoveId.LEER ]
+[ 1, MoveId.LEER ],
 [ 5, MoveId.RAGE ],
 [ 10, MoveId.PAYBACK ],
 [ 15, MoveId.ASSURANCE ],
