@@ -19638,6 +19638,13 @@
     "dexNum": 146,
     "id": "MOLTRES",
     "form": null,
+    "level": 12,
+    "move": "WILL_O_WISP"
+  },
+  {
+    "dexNum": 146,
+    "id": "MOLTRES",
+    "form": null,
     "level": 15,
     "move": "WING_ATTACK"
   },
@@ -27310,14 +27317,14 @@
     "dexNum": 206,
     "id": "DUNSPARCE",
     "form": null,
-    "level": 31,
+    "level": 30,
     "move": "ENDURE"
   },
   {
     "dexNum": 206,
     "id": "DUNSPARCE",
     "form": null,
-    "level": 33,
+    "level": 32,
     "move": "HYPER_DRILL"
   },
   {
@@ -34388,6 +34395,13 @@
     "id": "MARSHTOMP",
     "form": null,
     "level": 1,
+    "move": "AQUA_RING"
+  },
+  {
+    "dexNum": 259,
+    "id": "MARSHTOMP",
+    "form": null,
+    "level": 1,
     "move": "TACKLE"
   },
   {
@@ -34556,7 +34570,7 @@
     "id": "SWAMPERT",
     "form": null,
     "level": "RELEARN_MOVE",
-    "move": "SLUDGE_WAVE"
+    "move": "SLUDGE_BOMB"
   },
   {
     "dexNum": 260,
@@ -34564,6 +34578,13 @@
     "form": null,
     "level": "EVOLVE_MOVE",
     "move": "MUDDY_WATER"
+  },
+  {
+    "dexNum": 260,
+    "id": "SWAMPERT",
+    "form": null,
+    "level": 1,
+    "move": "AQUA_RING"
   },
   {
     "dexNum": 260,
@@ -34725,6 +34746,13 @@
     "form": null,
     "level": 63,
     "move": "HYDRO_PUMP"
+  },
+  {
+    "dexNum": 260,
+    "id": "SWAMPERT",
+    "form": null,
+    "level": 66,
+    "move": "WAVE_CRASH"
   },
   {
     "dexNum": 261,
@@ -39582,14 +39610,14 @@
     "id": "MAWILE",
     "form": null,
     "level": 1,
-    "move": "GROWL"
+    "move": "ASTONISH"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
     "level": 1,
-    "move": "ASTONISH"
+    "move": "GROWL"
   },
   {
     "dexNum": 303,
@@ -39602,14 +39630,14 @@
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 5,
+    "level": 3,
     "move": "SWEET_SCENT"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 7,
+    "level": 6,
     "move": "VISE_GRIP"
   },
   {
@@ -39623,43 +39651,36 @@
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 11,
+    "level": 12,
     "move": "BATON_PASS"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 13,
+    "level": 15,
     "move": "FEINT_ATTACK"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 17,
-    "move": "FAKE_TEARS"
+    "level": 18,
+    "move": "CHARM"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 20,
+    "level": 21,
     "move": "SUCKER_PUNCH"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 22,
-    "move": "DRAINING_KISS"
-  },
-  {
-    "dexNum": 303,
-    "id": "MAWILE",
-    "form": null,
     "level": 24,
-    "move": "IRON_DEFENSE"
+    "move": "DRAINING_KISS"
   },
   {
     "dexNum": 303,
@@ -39667,6 +39688,13 @@
     "form": null,
     "level": 28,
     "move": "CRUNCH"
+  },
+  {
+    "dexNum": 303,
+    "id": "MAWILE",
+    "form": null,
+    "level": 32,
+    "move": "IRON_DEFENSE"
   },
   {
     "dexNum": 303,
@@ -39680,41 +39708,55 @@
     "id": "MAWILE",
     "form": null,
     "level": 40,
-    "move": "TAUNT"
-  },
-  {
-    "dexNum": 303,
-    "id": "MAWILE",
-    "form": null,
-    "level": 48,
-    "move": "PLAY_ROUGH"
-  },
-  {
-    "dexNum": 303,
-    "id": "MAWILE",
-    "form": null,
-    "level": 51,
     "move": "STOCKPILE"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 51,
+    "level": 40,
     "move": "SPIT_UP"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 51,
+    "level": 40,
     "move": "SWALLOW"
   },
   {
     "dexNum": 303,
     "id": "MAWILE",
     "form": null,
-    "level": 56,
+    "level": 43,
+    "move": "TAUNT"
+  },
+  {
+    "dexNum": 303,
+    "id": "MAWILE",
+    "form": null,
+    "level": 46,
+    "move": "FAKE_TEARS"
+  },
+  {
+    "dexNum": 303,
+    "id": "MAWILE",
+    "form": null,
+    "level": 49,
+    "move": "PLAY_ROUGH"
+  },
+  {
+    "dexNum": 303,
+    "id": "MAWILE",
+    "form": null,
+    "level": 52,
+    "move": "KNOCK_OFF"
+  },
+  {
+    "dexNum": 303,
+    "id": "MAWILE",
+    "form": null,
+    "level": 55,
     "move": "DYNAMIC_PUNCH"
   },
   {
@@ -64075,14 +64117,14 @@
     "id": "VICTINI",
     "form": null,
     "level": 1,
-    "move": "ENDURE"
+    "move": "FLAME_CHARGE"
   },
   {
     "dexNum": 494,
     "id": "VICTINI",
     "form": null,
     "level": 1,
-    "move": "FLAME_CHARGE"
+    "move": "ENDURE"
   },
   {
     "dexNum": 494,
@@ -70017,13 +70059,6 @@
     "dexNum": 544,
     "id": "WHIRLIPEDE",
     "form": null,
-    "level": "RELEARN_MOVE",
-    "move": "MORTAL_SPIN"
-  },
-  {
-    "dexNum": 544,
-    "id": "WHIRLIPEDE",
-    "form": null,
     "level": "EVOLVE_MOVE",
     "move": "IRON_DEFENSE"
   },
@@ -70145,13 +70180,6 @@
     "form": null,
     "level": 55,
     "move": "DOUBLE_EDGE"
-  },
-  {
-    "dexNum": 545,
-    "id": "SCOLIPEDE",
-    "form": null,
-    "level": "RELEARN_MOVE",
-    "move": "MORTAL_SPIN"
   },
   {
     "dexNum": 545,
@@ -73393,6 +73421,13 @@
     "form": null,
     "level": 42,
     "move": "EXPLOSION"
+  },
+  {
+    "dexNum": 569,
+    "id": "GARBODOR",
+    "form": null,
+    "level": "RELEARN_MOVE",
+    "move": "HARD_PRESS"
   },
   {
     "dexNum": 569,
@@ -80290,6 +80325,13 @@
     "move": "FOCUS_PUNCH"
   },
   {
+    "dexNum": 623,
+    "id": "GOLURK",
+    "form": null,
+    "level": 75,
+    "move": "HEADLONG_RUSH"
+  },
+  {
     "dexNum": 624,
     "id": "PAWNIARD",
     "form": null,
@@ -85718,13 +85760,6 @@
     "dexNum": 667,
     "id": "LITLEO",
     "form": null,
-    "level": 30,
-    "move": "EARTH_POWER"
-  },
-  {
-    "dexNum": 667,
-    "id": "LITLEO",
-    "form": null,
     "level": 33,
     "move": "ECHOED_VOICE"
   },
@@ -85846,13 +85881,6 @@
     "form": null,
     "level": 28,
     "move": "ENDEAVOR"
-  },
-  {
-    "dexNum": 668,
-    "id": "PYROAR",
-    "form": null,
-    "level": 30,
-    "move": "EARTH_POWER"
   },
   {
     "dexNum": 668,
@@ -88225,21 +88253,14 @@
     "id": "INKAY",
     "form": null,
     "level": 29,
+    "move": "TOPSY_TURVY"
+  },
+  {
+    "dexNum": 686,
+    "id": "INKAY",
+    "form": null,
+    "level": 31,
     "move": "PSYCHO_CUT"
-  },
-  {
-    "dexNum": 686,
-    "id": "INKAY",
-    "form": null,
-    "level": 31,
-    "move": "LIGHT_SCREEN"
-  },
-  {
-    "dexNum": 686,
-    "id": "INKAY",
-    "form": null,
-    "level": 31,
-    "move": "REFLECT"
   },
   {
     "dexNum": 686,
@@ -88260,7 +88281,14 @@
     "id": "INKAY",
     "form": null,
     "level": 39,
-    "move": "TOPSY_TURVY"
+    "move": "LIGHT_SCREEN"
+  },
+  {
+    "dexNum": 686,
+    "id": "INKAY",
+    "form": null,
+    "level": 39,
+    "move": "REFLECT"
   },
   {
     "dexNum": 686,
@@ -88268,6 +88296,13 @@
     "form": null,
     "level": 42,
     "move": "SUPERPOWER"
+  },
+  {
+    "dexNum": 687,
+    "id": "MALAMAR",
+    "form": null,
+    "level": 1,
+    "move": "REVERSAL"
   },
   {
     "dexNum": 687,
@@ -88289,13 +88324,6 @@
     "form": null,
     "level": 1,
     "move": "CONSTRICT"
-  },
-  {
-    "dexNum": 687,
-    "id": "MALAMAR",
-    "form": null,
-    "level": 1,
-    "move": "REVERSAL"
   },
   {
     "dexNum": 687,
@@ -88372,21 +88400,14 @@
     "id": "MALAMAR",
     "form": null,
     "level": 29,
+    "move": "TOPSY_TURVY"
+  },
+  {
+    "dexNum": 687,
+    "id": "MALAMAR",
+    "form": null,
+    "level": 31,
     "move": "PSYCHO_CUT"
-  },
-  {
-    "dexNum": 687,
-    "id": "MALAMAR",
-    "form": null,
-    "level": 31,
-    "move": "LIGHT_SCREEN"
-  },
-  {
-    "dexNum": 687,
-    "id": "MALAMAR",
-    "form": null,
-    "level": 31,
-    "move": "REFLECT"
   },
   {
     "dexNum": 687,
@@ -88407,7 +88428,14 @@
     "id": "MALAMAR",
     "form": null,
     "level": 42,
-    "move": "TOPSY_TURVY"
+    "move": "LIGHT_SCREEN"
+  },
+  {
+    "dexNum": 687,
+    "id": "MALAMAR",
+    "form": null,
+    "level": 42,
+    "move": "REFLECT"
   },
   {
     "dexNum": 687,
@@ -88667,6 +88695,13 @@
     "form": null,
     "level": 65,
     "move": "SKULL_BASH"
+  },
+  {
+    "dexNum": 689,
+    "id": "BARBARACLE",
+    "form": null,
+    "level": 70,
+    "move": "CLOSE_COMBAT"
   },
   {
     "dexNum": 690,
@@ -111052,7 +111087,7 @@
     "id": "ZAMAZENTA",
     "form": null,
     "level": 1,
-    "move": "REVENGE"
+    "move": "ROCK_SMASH"
   },
   {
     "dexNum": 889,
@@ -111256,20 +111291,6 @@
     "form": null,
     "level": 96,
     "move": "OUTRAGE"
-  },
-  {
-    "dexNum": 890,
-    "id": "ETERNATUS",
-    "form": "",
-    "level": 88,
-    "move": "OUTRAGE"
-  },
-  {
-    "dexNum": 890,
-    "id": "ETERNATUS",
-    "form": "eternamax",
-    "level": 88,
-    "move": "ETERNABEAM"
   },
   {
     "dexNum": 891,
@@ -113258,13 +113279,6 @@
     "form": null,
     "level": 52,
     "move": "CLOSE_COMBAT"
-  },
-  {
-    "dexNum": 904,
-    "id": "OVERQWIL",
-    "form": null,
-    "level": "RELEARN_MOVE",
-    "move": "MORTAL_SPIN"
   },
   {
     "dexNum": 904,
@@ -122223,14 +122237,14 @@
     "dexNum": 982,
     "id": "DUDUNSPARCE",
     "form": null,
-    "level": 31,
+    "level": 30,
     "move": "ENDURE"
   },
   {
     "dexNum": 982,
     "id": "DUDUNSPARCE",
     "form": null,
-    "level": 33,
+    "level": 32,
     "move": "HYPER_DRILL"
   },
   {
@@ -124269,6 +124283,13 @@
     "form": null,
     "level": 42,
     "move": "RECOVER"
+  },
+  {
+    "dexNum": 1000,
+    "id": "GHOLDENGO",
+    "form": null,
+    "level": 45,
+    "move": "FLASH_CANNON"
   },
   {
     "dexNum": 1000,
@@ -135167,14 +135188,21 @@
     "id": "BLOODMOON_URSALUNA",
     "form": null,
     "level": 1,
-    "move": "SCRATCH"
+    "move": "ROUND"
   },
   {
     "dexNum": 8901,
     "id": "BLOODMOON_URSALUNA",
     "form": null,
     "level": 1,
-    "move": "LEER"
+    "move": "MUD_SLAP"
+  },
+  {
+    "dexNum": 8901,
+    "id": "BLOODMOON_URSALUNA",
+    "form": null,
+    "level": 1,
+    "move": "SCRATCH"
   },
   {
     "dexNum": 8901,
@@ -135187,8 +135215,22 @@
     "dexNum": 8901,
     "id": "BLOODMOON_URSALUNA",
     "form": null,
+    "level": 1,
+    "move": "LEER"
+  },
+  {
+    "dexNum": 8901,
+    "id": "BLOODMOON_URSALUNA",
+    "form": null,
     "level": 8,
     "move": "FURY_SWIPES"
+  },
+  {
+    "dexNum": 8901,
+    "id": "BLOODMOON_URSALUNA",
+    "form": null,
+    "level": 11,
+    "move": "MUD_SHOT"
   },
   {
     "dexNum": 8901,
@@ -135230,7 +135272,7 @@
     "id": "BLOODMOON_URSALUNA",
     "form": null,
     "level": 29,
-    "move": "MOONBLAST"
+    "move": "PLAY_ROUGH"
   },
   {
     "dexNum": 8901,
@@ -135264,8 +135306,15 @@
     "dexNum": 8901,
     "id": "BLOODMOON_URSALUNA",
     "form": null,
-    "level": 56,
+    "level": 52,
     "move": "HEADLONG_RUSH"
+  },
+  {
+    "dexNum": 8901,
+    "id": "BLOODMOON_URSALUNA",
+    "form": null,
+    "level": 56,
+    "move": "MOONBLAST"
   },
   {
     "dexNum": 8901,
